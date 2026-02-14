@@ -4,7 +4,7 @@
 
 A blazing-fast, customized, lightweight language model optimized for real-time sales & stock analytics, inventory insights, and financial reporting based on the LiquidAI 1.2B base model supervised fine-tuned FP16 model.
 
-#Huggignface Repo: https://huggingface.co/NeshVerse/Flash-financial-analysis-lfm-1.2b
+**Huggingface Repo:** https://huggingface.co/NeshVerse/Flash-financial-analysis-lfm-1.2b
 
 ---
 license: apache-2.0
