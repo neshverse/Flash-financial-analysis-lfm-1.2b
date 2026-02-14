@@ -1,3 +1,9 @@
+# ⚡ Flash-Financial-Analysis-LFM-1.2B
+
+**Lightning-fast financial intelligence for structured data analysis**
+
+A blazing-fast, customized, lightweight language model optimized for real-time sales & stock analytics, inventory insights, and financial reporting based on the LiquidAI 1.2B base model supervised fine-tuned FP16 model.
+
 ---
 license: apache-2.0
 language:
@@ -18,12 +24,6 @@ tags:
 pipeline_tag: text-generation
 library_name: transformers
 ---
-
-# ⚡ Flash-Financial-Analysis-LFM-1.2B
-
-**Lightning-fast financial intelligence for structured data analysis**
-
-A blazing-fast, customized, lightweight language model optimized for real-time sales & stock analytics, inventory insights, and financial reporting based on the LiquidAI 1.2B base model supervised fine-tuned FP16 model.
 
 ## Model Details
 
